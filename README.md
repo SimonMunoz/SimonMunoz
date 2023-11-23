@@ -1,4 +1,6 @@
 - Hi, I’m @SimonMunoz
+
+- I am a mathematician working at the brain Simulation Section at Charité Berlin
 - I’m interested in Stochastic Processes, Computational Neuroscience, Data Science, Machine Learning
 
 
