@@ -1,6 +1,6 @@
-- Hi, I’m @SimonMunoz
+- Hi, I’m Amaru
 
-- I am a mathematician working at the brain Simulation Section at Charité Berlin
+- I am a mathematician working at the Brain Simulation Section at Charité Berlin
 - I’m interested in Stochastic Processes, Computational Neuroscience, Data Science, Machine Learning
 
 
