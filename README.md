@@ -2,6 +2,7 @@
 
 - I am a mathematician working at the Brain Simulation Section at Charité Berlin
 - I’m interested in Stochastic Processes, Computational Neuroscience, Data Science, Machine Learning
+- Most of my active repositories are private, because they contain research
 
 
 <!---
